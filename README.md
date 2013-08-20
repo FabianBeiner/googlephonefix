@@ -1,4 +1,6 @@
-# Google Contacts Phone Number & Email Address Fixer
+# [DEPRECATED] Google Contacts Phone Number & Email Address Fixer
+
+**This repository is deprecated. Google changed their API, thus this script isn't working anymore. And sadly, there's no easy way to fix it.**
 
 #### About:
 This tool connects with your Google Contacts account. It loads the data of all contacts, reformats the phone numbers, and checks the email addresses. Phone numbers get country prefixes added, dashes and dots removed and area codes from some countries are separated from the rest of the number. The email addresses are transformed to lowercase and checked, if each one is actually valid.
